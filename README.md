@@ -11,3 +11,10 @@ update the components
 update the pipeline
 update the main.py
 update the dvc.yaml
+
+
+### DAGSHUB
+MLFLOW_TRACKING_URI=https://dagshub.com/*********************************
+MLFLOW_TRACKING_USERNAME=**************
+MLFLOW_TRACKING_PASSWORD=**********************
+python script.py
